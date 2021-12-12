@@ -1,0 +1,57 @@
+{
+    "cards": [{
+        "id": 1,
+        "imgName": "Lupita",
+        "imgUser": "Lupis_mx",
+        "imgURL": "cdmx"
+      },
+      {
+        "id": 2,
+        "imgName": "X-mas",
+        "imgUser": "culture_mx",
+        "imgURL": "chichenitza"
+      },
+      {
+        "id": 3,
+        "imgName": "David",
+        "imgUser": "food_mx",
+        "imgURL": "comida"
+      },
+      {
+        "id": 4,
+        "imgName": "Mariana",
+        "imgUser": "mexico_lindo",
+        "imgURL": "mexico"
+      },
+      {
+        "id": 5,
+        "imgName": "Alondra",
+        "imgUser": "mx_mx",
+        "imgURL": "michoacan"
+      },
+      {
+        "id": 6,
+        "imgName": "José",
+        "imgUser": "tacos_guey",
+        "imgURL": "monterrey"
+      },
+      {
+        "id": 7,
+        "imgName": "Olimpia",
+        "imgUser": "sami_mx",
+        "imgURL": "morelos"
+      },
+      {
+        "id": 8,
+        "imgName": "Adri",
+        "imgUser": "mx_linda",
+        "imgURL": "tulum"
+      },
+      {
+        "id": 9,
+        "imgName": "Tonatihu",
+        "imgUser": "xolotl_mx",
+        "imgURL": "xochimilco"
+      }]
+    
+    }

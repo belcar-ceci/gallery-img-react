@@ -1,0 +1,14 @@
+$colorPrimary: #11324d;
+$colorSecondary: rgb(17, 139, 155);
+$colorHeader: #aa3c6f;
+$colorCard: #ecdeb0;
+
+$filterPrimary: invert(30%) sepia(20%) saturate(6500%) hue-rotate(180deg)
+  brightness(80%) contrast(50%);
+  
+@mixin displayFlex {
+  display: flex;
+  justify-content: center;
+  align-items: space-between;
+  flex-wrap: wrap;
+}
