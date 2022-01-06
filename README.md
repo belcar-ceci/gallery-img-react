@@ -1,2 +1,2 @@
 # gallery-img-react
-Gallery images "Mexico on the Skin"
+Gallery images "Mexico in the Skin"
